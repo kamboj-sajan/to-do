@@ -1,0 +1,12 @@
+{
+  "name": "to-do-list-webapp",
+  "version": "1.0.0",
+  "description": "A simple to-do list web application",
+  "main": "script.js",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": ["to-do", "list", "webapp"],
+  "author": "",
+  "license": "ISC"
+}
